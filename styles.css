@@ -30,6 +30,11 @@ header .container{
     background-color: #E2E8F0 ;
 }
 
+.overview-hero-text{
+    width: 600px;
+    margin-right: 50px;
+}
+
 /* Format header */
  ul{
     list-style: none;
